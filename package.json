@@ -1,0 +1,9 @@
+{
+  "name": "charter-verifier",
+  "version": "0.1.0",
+  "description": "Static page that checks the Kognai Founding Charter EAS attestation on Base against its IPFS texts (sha256 per text).",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test test/" }
+}
